@@ -8,7 +8,7 @@ particlesJS({
       },
     },
     color: {
-      value: "#0053a5",
+      value: "#170033",
     },
     shape: {
       type: "circle",
@@ -67,6 +67,7 @@ particlesJS({
       },
     },
   },
+  
   interactivity: {
     detect_on: "canvas",
     events: {
