@@ -93,12 +93,12 @@
   cursor: pointer;
 }
 
-#sobre .content .text a button:hover ion-icon {
+#sobre .content .text a button:hover i {
   color: #111111;
   animation: moveicon 2s ease-in-out infinite;
 }
 
-#sobre .content .text a button ion-icon {
+#sobre .content .text a button i {
   color: var(--color-text);
   font-size: 2rem;
 }
