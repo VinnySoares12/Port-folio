@@ -94,13 +94,13 @@
 
 #projects .image img:hover {
   cursor: pointer;
-  filter: drop-shadow(1px 3px 15px #4646469d);
+  filter: drop-shadow(1px 3px 15px #30027a);
 }
 
 #projects h3 {
   font-size: 2.5rem;
   font-weight: 700;
-  color: #d8d8d8;
+  color: #30027a;
 
   margin-bottom: 0.5rem;
 }
